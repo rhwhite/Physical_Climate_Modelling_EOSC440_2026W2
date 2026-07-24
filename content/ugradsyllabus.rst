@@ -29,28 +29,27 @@ UBC library <https://gw2jh3xr2c.search.serialssolutions.com/?sid=sersol&SS_jc=TC
 Prerequisites
 -------------
 
-One of PHYS 102, PHYS 108, PHYS 118, PHYS 158, PHYS 102, MATH 211, MATH 215, MATH 255, MATH 256, MATH 265.  
+One of MATH 200, MATH 211
+One of EOSC 211, EOSC 213, CPSC 203, CPSC 210
+One of EOSC 112, ATSC 201, EOSC 340, EOSC 345, GEOS 102,GEOG 312, PHYS 333
 
 Familiarity with python, or strong coding skills in another language (the course is taught in python). 
-
-Familiarity with the basics of global climate science is recommended but not required.   
-
 
 Course Structure
 ----------------
 
-This course is not lecture based. The course is an interactive, computer
+This course is not primarily lecture based. The course is an interactive, computer
 based laboratory course. The computer will lead you through the
 laboratory (like a set of lab notes) and you will answer problems most
 of which use the computer. The course consists of three parts: 1) A set of
 interactive, computer based laboratory exercises; 2) in-class worksheets, and 3)
 a final project.
 
-During the class times, there will be group worksheets to delve
-into the material, brief presentations to help with technical
-matters and to help you understand some more of the science content, 
-time to ask questions in a group format and also individually,
-and time to read and work on the laboratories.
+During a typical class there will be: 
+- a mini-lecture to help you understand some more of the science content
+- brief presentations to help with technical matters
+- group worksheets to delve into the material
+- time to read and work on the laboratories and to ask questions in a group format and also individually
 
 It will be important to read the textbook chapters and look through the
 labs before class - this will help you to complete the (graded) in-class
@@ -65,12 +64,12 @@ https://phaustin.github.io/climate_students_eoas
 Grades
 ------
 
-   -  Assignments 50% (individual with collaboration)
+   -  Assignments 40% (individual with collaboration)
    -  Reading Quizzes 5% (individual)
    -  In-class Worksheets 5% (group)
    -  Project Proposal 5%
-   -  Project 30% 
-   -  Project Oral Presentation 5%
+   -  Project 35% 
+   -  Project Oral Presentation 10%
 
 There are 5 worked assignments to complete that are related to the
 labs you should have worked through in that week. Assignments can 
@@ -90,10 +89,8 @@ to illness, “away games” for athletes etc. In-class worksheets
 are done as a group and are to handed in (one worksheet only per
 group) at the end of the worksheet time.
 
-The assignments are to be uploaded to the course CANVAS page. Sometimes, rather than a large series of plots, you may wish to
-include a summarizing table. If you do not understand the scope of a
-problem, please ask. Help with the labs is
-available 1) through piazza (see CANVAS) so you can contact your classmates
+The assignments are to be uploaded to the course CANVAS page. Sometimes, rather than a large series of plots, you may wish to include a summarizing table. If you do not understand the scope of a
+problem, please ask. Help with the labs is available 1) through piazza (see CANVAS) so you can contact your classmates
 and ask them 2) during the weekly scheduled lab or 3) directly from the
 instructors. Assignments, quizzes, and the project are expected on
 time. Late ones will be marked and then the mark will be multiplied by
@@ -103,25 +100,31 @@ time. Late ones will be marked and then the mark will be multiplied by
 Meeting Times
 -------------
 
-Monday 2pm-4pm in SWNG 305
+Monday 2pm-4pm
 
 
 Tentative schedule, including assignment deadlines
 --------
 
-Week 1 (6-10 Jan) Introduction (PA)
-   - Introductory Meeting: set class time, introduce jupyter notebooks, github, and the structure of the course
-
+Week 1 (6-10 Jan) Introduction
    - Pre-class reading: syllabus
+
+   - Class: 
+      - Mini-lecture: introduction to the course, and the physical climate system
+      - Technical: introduce jupyter notebooks and OpenJupyter, how to access the labs, github
+      - Worksheet 1: introduction to jupyter notebooks and climate models  (based on Notebook 1)
 
    - Lab: 
       - Notebook 1: Climate models, the global energy budget and Fun with Python
 
 
-Week 2 (13-17 Jan) - Introduction to Climate Models and the Global Energy Budget (RHW)
-   - Pre-class reading: Chapters 1 & 2 of Global Physical Climatology
-   
+Week 2 (13-17 Jan) - Introduction to Climate Models and the Global Energy Budget
+   - Pre-class reading: Chapters 1 & 2 of Global Physical Climatology  
    - Pre-class Quiz #1
+
+   - Class:
+      - Mini-lecture: Energy balance and energy budgets
+      - Worksheet 2: global energy budgets (based on Notebook 2)
 
    - Labs: 
       - Notebook 2: Modeling the global energy budget
@@ -129,10 +132,14 @@ Week 2 (13-17 Jan) - Introduction to Climate Models and the Global Energy Budget
 
   - Assignment 1 - Climate change in the zero-dimensional EBM - due 9pm Jan 27th - all problems (1 & 2)
 
-Week 3 (20-24 Jan) - Radiative Transfer (PA)
-   - Pre-class reading: Chapter 3 of Global Physical Climatology
-
+Week 3 (20-24 Jan) - Radiative Transfer 
+   - Pre-class reading: Chapter 3 of Global Physical Climatology, reading on cloud and precipitation microphysics
    - Pre-class Quiz #2
+
+   - Class:
+      - Mini-lecture: Radiative transfer, cloud and precipitation microphysics
+      - Technical: Introduction to xarray
+      - Worksheet 3: Introduction to xarray and global energy budgets (based on Notebook 4)
 
    - Labs: 
       - Notebook 4: Introducing the Community Earth System Model (CESM)
@@ -144,10 +151,13 @@ Week 3 (20-24 Jan) - Radiative Transfer (PA)
 
   - Assignment 2 - Global average budgets in the CESM pre-industrial control simulation - due 9pm Feb 3rd - all problems (1 & 2)
 
-Week 4 (27-31 Jan) - Radiative Equilibrium and Climate Change (PA)
-   - Pre-class reading: Chapter 4 of Global Physical Climatology
-   
+Week 4 (27-31 Jan) - Radiative Equilibrium and Climate Change
+   - Pre-class reading: Chapter 4 of Global Physical Climatology 
    - Pre-class Quiz #3
+
+   - Class:
+      - Mini-lecture: Radiative equilibrium, Clouds and radiation
+      - Worksheet 4: 2-layer atmosphere model
 
    - Labs: 
       - Notebook 9: Grey radiation modeling with climlab
@@ -156,10 +166,13 @@ Week 4 (27-31 Jan) - Radiative Equilibrium and Climate Change (PA)
 
    - Assignment 3 - Clouds in the Leaky Greenhouse Model - due 9pm Feb 10th - problems (1, 2, 3, 4, and 5)
 
-Week 5 (3-7 Feb) - Modelling feedbacks and transient warming (PA)
+Week 5 (3-7 Feb) - Modelling feedbacks and transient warming
    - Pre-class reading: Chapters 10 and 11 of Global Physical Climatology
-
    - Pre-class Quiz #4
+
+   - Class:
+      - Mini-lecture: Global climate models and cloud parameterizations
+      - Worksheet 5: Forcings and feedbacks using 1D radiative equilibrium
 
    - Labs: 
       - Notebook 12: Radiative Equilibrium
@@ -170,10 +183,13 @@ Week 5 (3-7 Feb) - Modelling feedbacks and transient warming (PA)
 
   - Assignment 4 - Feedbacks in the Radiative-Convective Model - due 9pm Feb 17th - all problems (1, 2, 3, 4, and 5)
 
-Week 6 (10-14 Feb) - Modelling natural and forced climate changes (RHW)
+Week 6 (10-14 Feb) - Modelling natural and forced climate changes
    - Pre-class reading: Chapters 12 and 13 of Global Physical Climatology
-
    - Pre-class Quiz #5
+
+   - Class:
+      - Mini-lecture: Anthropogenic climate change: greenhouse gases and aerosols; TCR and ECS
+      - Worksheet 6: Transient and equilibrium CO2 response (based on Notebook 15)
 
    - Labs: 
       - Notebook 17: Clouds and cloud feedback
@@ -186,10 +202,13 @@ Week 6 (10-14 Feb) - Modelling natural and forced climate changes (RHW)
 -- Mid-term break: 17-21 Feb -- 
       
 
-Week 7 (24-28 Feb) - Modelling atmospheric general circulation (RHW)
+Week 7 (24-28 Feb) - Modelling atmospheric general circulation
    - Pre-class reading: Chapter 6 of Global Physical Climatology
-
    - Pre-class Quiz #6
+
+   - Class:
+      - Mini-lecture: Atmospheric Circulation
+      - Worksheet 6: Project ideas
 
    - Labs: 
       - Notebook 21: The one-dimensional energy balance model
@@ -201,22 +220,27 @@ Week 7 (24-28 Feb) - Modelling atmospheric general circulation (RHW)
 
 Week 8 (3-7 Mar) - Modelling coupled atmosphere-ocean circulation and internal variability (RHW)
    - Pre-class reading: Chapters 7 and 8 of Global Physical Climatology
-
    - Pre-class Quiz #7
+
+   - Class:
+      - Mini-lecture: Natural climate variability and single model initialization large ensembles (SMILEs)
+      - Worksheet 7: Introduction to SMILEs with CESM LENS
 
    - Labs: 
       - Notebook 25: Ice-albedo feedback and Snowball Earth in the EBM
       - Notebook 26: Coupled Dynamics in the CESM
       - Notebook: analysis of CESM large ensemble data: https://github.com/NCAR/cesm-lens-aws; 
-        running the notebook on `Pangeo <https://aws-uswest2-binder.pangeo.io/v2/gh/NCAR/cesm-lens-aws/binder-config?urlpath=git-pull?repo=https://github.com/NCAR/cesm-lens-aws%26amp%3Bbranch=main%26amp%3Burlpath=lab/tree/cesm-lens-aws/%3Fautodecode>`_ will give you access to the
-        large ensemble dataset without having to download it. Login with github (you can create an account for free if you don’t already have one)
+        running the notebook on `Pangeo <https://aws-uswest2-binder.pangeo.io/v2/gh/NCAR/cesm-lens-aws/binder-config?urlpath=git-pull?repo=https://github.com/NCAR/cesm-lens-aws%26amp%3Bbranch=main%26amp%3Burlpath=lab/tree/cesm-lens-aws/%3Fautodecode>`_ will give you access to the large ensemble dataset without having to download it. Login with github (you can create an account for free if you don’t already have one)
 
    - Project proposal - due 9pm Mar 10th
 
 Week 9 (10-14 Mar) - Climate model hierachy and uses (RHW)
    - Pre-class reading: Chapter 9 of Global Physical Climatology
-
    - Pre-class Quiz #8
+
+   - Class:
+      - Mini-lecture: Climate model hierachies
+      - Worksheet 8: Investigating CMIP6 or CESM LENS data (project dependent)
 
    - Labs: 
       - Notebook 27: The surface energy balance
