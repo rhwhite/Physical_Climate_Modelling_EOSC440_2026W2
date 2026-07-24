@@ -54,3 +54,10 @@ html:
   home_page_in_navbar: true
   baseurl: https://phaustin.github.io/climate_students_eoas
 
+sphinx:
+  config:
+    html_extra_path: []
+html:
+  extra_css_files:
+    - _build/_static/custom.css
+

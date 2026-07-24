@@ -19,7 +19,6 @@ Instructors
 -----------
 
 | Rachel White, rwhite@eoas.ubc.ca, Rm 4019 ESB
-| Phil Austin, paustin@eoas.ubc.ca, Rm 157 EOS-South
 
 Textbook
 -------------
@@ -30,7 +29,9 @@ Prerequisites
 -------------
 
 One of MATH 200, MATH 211
+
 One of EOSC 211, EOSC 213, CPSC 203, CPSC 210
+
 One of EOSC 112, ATSC 201, EOSC 340, EOSC 345, GEOS 102,GEOG 312, PHYS 333
 
 Familiarity with python, or strong coding skills in another language (the course is taught in python). 
@@ -64,12 +65,12 @@ https://phaustin.github.io/climate_students_eoas
 Grades
 ------
 
-   -  Assignments 40% (individual with collaboration)
-   -  Reading Quizzes 5% (individual)
+   -  Assignments 40% (individual)
+   -  Reading Quizzes 10% (individual)
    -  In-class Worksheets 5% (group)
-   -  Project Proposal 5%
-   -  Project 35% 
-   -  Project Oral Presentation 10%
+   -  Project Proposal 5% (group)
+   -  Project 35% (group)
+   -  Project Oral Presentation 5% (group)
 
 There are 5 worked assignments to complete that are related to the
 labs you should have worked through in that week. Assignments can 
@@ -106,21 +107,25 @@ Monday 2pm-4pm
 Tentative schedule, including assignment deadlines
 --------
 
-Week 1 (6-10 Jan) Introduction
-   - Pre-class reading: syllabus
+.. admonition:: Week 1 (??-?? Jan) - Introduction 
 
-   - Class: 
-      - Mini-lecture: introduction to the course, and the physical climate system
-      - Technical: introduce jupyter notebooks and OpenJupyter, how to access the labs, github
-      - Worksheet 1: introduction to jupyter notebooks and climate models  (based on Notebook 1)
+  - Pre-class:
+     - Reading: syllabus  
 
-   - Lab: 
-      - Notebook 1: Climate models, the global energy budget and Fun with Python
+  - Class:
+     - Mini-lecture: introduction to the course, and the physical climate system
+     - Technical: introduce jupyter notebooks and OpenJupyter, how to access the labs, github
+     - Worksheet: introduction to jupyter notebooks and climate models  (based on Notebook 1)
+
+  - Labs: 
+     - Notebook 1: Climate models, the global energy budget and Fun with Python
 
 
-Week 2 (13-17 Jan) - Introduction to Climate Models and the Global Energy Budget
-   - Pre-class reading: Chapters 1 & 2 of Global Physical Climatology  
-   - Pre-class Quiz #1
+.. admonition:: Week 2 (??-?? Jan) - Introduction to Climate Models and the Global Energy Budget
+
+   - Pre-class 
+      - Reading: Chapters 1 & 2 of Global Physical Climatology  
+      - Pre-class Quiz #1
 
    - Class:
       - Mini-lecture: Energy balance and energy budgets
@@ -130,11 +135,15 @@ Week 2 (13-17 Jan) - Introduction to Climate Models and the Global Energy Budget
       - Notebook 2: Modeling the global energy budget
       - Notebook 3: The climate system and climate models
 
-  - Assignment 1 - Climate change in the zero-dimensional EBM - due 9pm Jan 27th - all problems (1 & 2)
+   - Assignment 
+      - Assignment 1 - Climate change in the zero-dimensional EBM - due 9pm Jan 27th - all problems (1 & 2)
 
-Week 3 (20-24 Jan) - Radiative Transfer 
-   - Pre-class reading: Chapter 3 of Global Physical Climatology, reading on cloud and precipitation microphysics
-   - Pre-class Quiz #2
+
+.. admonition:: Week 3 (??-?? Jan) - Radiative Transfer 
+
+   - Pre-class 
+      - Reading: Chapter 3 of Global Physical Climatology, Reading on cloud and precipitation microphysics
+      - Pre-class Quiz #2
 
    - Class:
       - Mini-lecture: Radiative transfer, cloud and precipitation microphysics
@@ -147,13 +156,17 @@ Week 3 (20-24 Jan) - Radiative Transfer
       - Notebook 6: A Brief Review of Radiation
       - Notebook 7: Elementary greenhouse models
 
-   - Optional lab: Notebook 8
+      - Optional lab: Notebook 8
 
-  - Assignment 2 - Global average budgets in the CESM pre-industrial control simulation - due 9pm Feb 3rd - all problems (1 & 2)
+   - Assignment 
+      - Assignment 2 - Global average budgets in the CESM pre-industrial control simulation - due 9pm Feb 3rd - all problems (1 & 2)
 
-Week 4 (27-31 Jan) - Radiative Equilibrium and Climate Change
-   - Pre-class reading: Chapter 4 of Global Physical Climatology 
-   - Pre-class Quiz #3
+
+.. admonition:: Week 4 (??-?? Jan) - Radiative Equilibrium and Climate Change
+
+   - Pre-class 
+      - Reading: Chapter 4 of Global Physical Climatology 
+      - Pre-class Quiz #3
 
    - Class:
       - Mini-lecture: Radiative equilibrium, Clouds and radiation
@@ -164,11 +177,15 @@ Week 4 (27-31 Jan) - Radiative Equilibrium and Climate Change
       - Notebook 10: Modeling non-scattering radiative transfer
       - Notebook 11: Who needs spectral bands? We do. Some baby steps…
 
-   - Assignment 3 - Clouds in the Leaky Greenhouse Model - due 9pm Feb 10th - problems (1, 2, 3, 4, and 5)
+   - Assignment 
+      - Assignment 3 - Clouds in the Leaky Greenhouse Model - due 9pm Feb 10th - problems (1, 2, 3, 4, and 5)
 
-Week 5 (3-7 Feb) - Modelling feedbacks and transient warming
-   - Pre-class reading: Chapters 10 and 11 of Global Physical Climatology
-   - Pre-class Quiz #4
+
+.. admonition:: Week 5 (??-?? Feb) - Modelling feedbacks and transient warming
+
+   - Pre-class 
+      - Reading: Chapters 10 and 11 of Global Physical Climatology
+      - Pre-class Quiz #4
 
    - Class:
       - Mini-lecture: Global climate models and cloud parameterizations
@@ -181,11 +198,14 @@ Week 5 (3-7 Feb) - Modelling feedbacks and transient warming
       - Notebook 15: Examing the transient and equilibrium CO_2 response in the CESM
       - Notebook 16: Toy models of transient warming
 
-  - Assignment 4 - Feedbacks in the Radiative-Convective Model - due 9pm Feb 17th - all problems (1, 2, 3, 4, and 5)
+   - Assignment 
+      - Assignment 4 - Feedbacks in the Radiative-Convective Model - due 9pm Feb 17th - all problems (1, 2, 3, 4, and 5)
 
-Week 6 (10-14 Feb) - Modelling natural and forced climate changes
-   - Pre-class reading: Chapters 12 and 13 of Global Physical Climatology
-   - Pre-class Quiz #5
+.. admonition:: Week 6 (??-?? Feb) - Modelling natural and forced climate changes
+
+   - Pre-class 
+      - Reading: Chapters 12 and 13 of Global Physical Climatology
+      - Pre-class Quiz #5
 
    - Class:
       - Mini-lecture: Anthropogenic climate change: greenhouse gases and aerosols; TCR and ECS
@@ -197,14 +217,18 @@ Week 6 (10-14 Feb) - Modelling natural and forced climate changes
       - Notebook 19: Orbital variations, insolation, and the ice ages
       - Notebook 20: Heat transport
    
-   - Assignment 5 - Climate change in the CESM simulations - due 9pm Mar 3rd - all parts
+   - Assignment 
+      - Assignment 5 - Climate change in the CESM simulations - due 9pm Mar 3rd - all parts
 
--- Mid-term break: 17-21 Feb -- 
+
+-- Mid-term break: ??-?? Feb -- 
       
 
-Week 7 (24-28 Feb) - Modelling atmospheric general circulation
-   - Pre-class reading: Chapter 6 of Global Physical Climatology
-   - Pre-class Quiz #6
+.. admonition:: Week 7 (??-?? Feb) - Modelling atmospheric general circulation
+
+   - Pre-class 
+      - Reading: Chapter 6 of Global Physical Climatology
+      - Pre-class Quiz #6
 
    - Class:
       - Mini-lecture: Atmospheric Circulation
@@ -216,11 +240,15 @@ Week 7 (24-28 Feb) - Modelling atmospheric general circulation
       - Notebook 23: Atmospheric Dynamics in the CESM
       - Notebook 24: A peek at numerical methods for diffusion models
 
-   - Students choose final project topic from a selection in discussion with instructors
+   - Assignment
+      - Students finalize project topic from a selection in discussion with instructors
 
-Week 8 (3-7 Mar) - Modelling coupled atmosphere-ocean circulation and internal variability (RHW)
-   - Pre-class reading: Chapters 7 and 8 of Global Physical Climatology
-   - Pre-class Quiz #7
+
+.. admonition:: Week 8 (??-?? Mar) - Modelling coupled atmosphere-ocean circulation and internal variability
+
+   - Pre-class 
+      - Reading: Chapters 7 and 8 of Global Physical Climatology
+      - Pre-class Quiz #7
 
    - Class:
       - Mini-lecture: Natural climate variability and single model initialization large ensembles (SMILEs)
@@ -232,11 +260,15 @@ Week 8 (3-7 Mar) - Modelling coupled atmosphere-ocean circulation and internal v
       - Notebook: analysis of CESM large ensemble data: https://github.com/NCAR/cesm-lens-aws; 
         running the notebook on `Pangeo <https://aws-uswest2-binder.pangeo.io/v2/gh/NCAR/cesm-lens-aws/binder-config?urlpath=git-pull?repo=https://github.com/NCAR/cesm-lens-aws%26amp%3Bbranch=main%26amp%3Burlpath=lab/tree/cesm-lens-aws/%3Fautodecode>`_ will give you access to the large ensemble dataset without having to download it. Login with github (you can create an account for free if you don’t already have one)
 
-   - Project proposal - due 9pm Mar 10th
+   - Assignment
+      - Project proposal - due 9pm Mar 10th
 
-Week 9 (10-14 Mar) - Climate model hierachy and uses (RHW)
-   - Pre-class reading: Chapter 9 of Global Physical Climatology
-   - Pre-class Quiz #8
+
+.. admonition:: Week 9 (??-?? Mar) - Climate model hierachy and uses
+
+   - Pre-class 
+      - Reading: Chapter 9 of Global Physical Climatology
+      - Pre-class Quiz #8
 
    - Class:
       - Mini-lecture: Climate model hierachies
@@ -247,12 +279,11 @@ Week 9 (10-14 Mar) - Climate model hierachy and uses (RHW)
       - Notebook 28: Land-Ocean contrasts under climate change
       - Notebook 29: Water, water everywhere!
 
-Weeks 10-13 (17-Mar- 7 Apr) - Work on projects
+.. admonition:: Weeks 10-13 (??Mar- ??Apr) - Work on projects
    -  Project Components:
          -  Proposal
          -  10-20 minute presentation to the class
          -  Project report
-
 
 University Statement on Values and Policies
 -------------------------------------------
