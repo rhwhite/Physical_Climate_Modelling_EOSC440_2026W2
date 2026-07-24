@@ -1,0 +1,24 @@
+# conda environment description file for GitHub Actions workflow that
+# builds the course site from website/ via Sphinx and deploys them to
+# github.io via the gh-pages branch
+
+name: climate-gh-pages
+
+channels:
+  - conda-forge
+  - nodefaults
+
+dependencies:
+  # The basics
+  - python=3.13
+  - pip
+
+  # To build the website
+  - ipython
+  - jinja2
+  - nbsphinx
+  - sphinx
+
+  - pip:
+    # Website theme (aka Sandstone)
+    - mozilla_sphinx_theme
